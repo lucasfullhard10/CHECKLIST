@@ -1,0 +1,6 @@
+{
+  "name": "AMPLA SERVICE — BLITZ OPERACIONAL",
+  "description": "Aplicativo de inspeção operacional de veículos para Blitz de Saída e Retorno de Rota da Ampla Service Grupo Ltda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
